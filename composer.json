@@ -1,15 +1,9 @@
 {
-    "name": "comquer/comquer",
+    "name": "gigabyte-software/comquer",
     "description": "CQRS and Event Sourcing Framework",
     "version": "dev-master",
     "minimum-stability": "dev",
     "type": "library",
-    "authors": [
-        {
-            "name": "Jakub Giminski",
-            "email": "jakubgiminski@gmail.com"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "Comquer\\": "src/"
