@@ -21,9 +21,9 @@
         }
     },
     "require": {
-        "comquer/collection": "dev-master",
-        "comquer/domain-integration": "dev-master",
-        "comquer/reflection": "dev-master",
+        "blake83/collection": "dev-master",
+        "blake83/domain-integration": "dev-master",
+        "blake83/reflection": "dev-master",
         "psr/container": "^1.0@dev",
         "fatcode/enum": "dev-master"
     },
