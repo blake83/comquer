@@ -1,5 +1,5 @@
 {
-    "name": "comquer/comquer",
+    "name": "blake83/comquer",
     "description": "CQRS and Event Sourcing Framework",
     "version": "dev-master",
     "minimum-stability": "dev",
